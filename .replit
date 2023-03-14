@@ -1,4 +1,4 @@
-run = "node .config/validate.js"
+run = "node .config/schema.js"
 entrypoint = "data.json"
 
 hidden = [".config"]
